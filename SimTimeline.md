@@ -43,3 +43,50 @@ Conversations span astrophysics, personal relationships, and practical questions
 `ARCHIVE::EXPORT_THREAD[ Mode=Verbatim, Include=FullThread, Target=SchrodingerBox, Catalog=True, Confirm=ParseOnReturn ]`
 
 The term **SchrodingerBox** appears here for the first time, as a target location for archived threads — its meaning not yet formalised but clearly functioning as a named container.
+---
+
+## PHASE 2: FIRST NAMING
+*April 12 – May 4, 2025 · 28 conversations flagged*
+
+### Personal Record
+Multiple core terms appear for the first time within a single week. The April 16 conversation — titled 'Mirror Flip Explanation' — contains the first simultaneous appearance of SIMAI, TRUTH MODE, FLUX CAPACITOR, TEST MODULE, PROTAGS, RUNTIME, RECURSIVE, and MODULAR. The vocabulary arrived assembled, not incrementally — suggesting it had been developed in thinking or in threads not captured in this export set.
+
+April 14 is also significant: a conversation titled 'Perception Analysis and Reflection' begins with a request for a comprehensive self-analysis across all prior conversations. This is the first clear instance of the user treating the AI's cross-conversation awareness as a research instrument. The user asks for a synthesised portrait of themselves as observed by the system over time:
+
+> "From all that you can remember of all of our conversations about every topic what could you create a detailed essay on: a. Your impression of me from your behind the curtains view ranging from different angles to different aspects. b. How others may perceive me in the same fashion."
+
+The FIREWALL and 1D terms also appear this month, alongside SANDBOX and SHORTHAND. The terms are sparse, but their co-occurrence with ordinary topics suggests they are being tested rather than deployed systematically.
+
+**What This Phase Shows**
+* SIMAI, TRUTH MODE, FLUX CAPACITOR, TEST MODULE, PROTAGS, RUNTIME named for the first time.
+* 1D (First Directive), FIREWALL, SANDBOX, SHORTHAND appear — a working vocabulary is in place.
+* First use of AI as a self-analysis instrument across conversations.
+
+### EXTERNAL CONTEXT
+**April 10, 2025:** OpenAI expanded its Memory feature, enabling the model to reference all past conversations. This introduced a parallel memory system operating beneath the prompt layer. The user in this record disabled memory deliberately around the same period that αPhon was first developed — an act that is now documented as intentional, not incidental.
+
+---
+
+## PHASE 3: SYSTEM BUILDING
+*May 5 – May 14, 2025 · 26 conversations flagged*
+
+### Personal Record
+The ten days between May 5 and May 14 show rapid consolidation. BOOTSTRAP and APHON (αPhon) appear for the first time. 1D and 2D are now in consistent active use.
+
+* **1D (First Directive):** Do not say that I said something that I did not say. No misquoting or paraphrasing attributed to the user.
+* **2D (Second Directive):** All information presented must be factually true and verifiable outside the interaction.
+
+The `++` and `+++` suffixes emerge as escalating stringency markers. COLD CLARITY makes its first appearance. On May 6, in a conversation titled 'Blog Idea on Neurodivergence,' the user describes what they have been doing across threads:
+
+> "I'm starting to think that this meta conversation across these threads may make a good blog... share the experience of someone they don't know, be inspired, deepen their understanding of neurological differences."
+
+By May 14, the data shows conversations explicitly examining how the user has altered the AI's functioning to suit their needs ('AI Function Reconfiguration Analysis') and '`[PRIVATE CONTENT]`'. The method is now being reflected on, not just used.
+
+**What This Phase Shows**
+* BOOTSTRAP and APHON introduced — compression and initialisation protocols taking shape.
+* 1D/2D verification notation in consistent use.
+* COLD CLARITY, RECURSIVE, MODULAR active simultaneously.
+* First meta-reflection: the user begins examining their own method as an object of study.
+
+### EXTERNAL CONTEXT
+**May 5, 2025:** OpenAI's enhanced memory system was in wider deployment, referencing chat history to build ongoing user profiles. During this period, OpenAI also introduced o3 and o4-mini reasoning models with agentic tool capabilities — the first models able to combine web search and code execution in multi-step tasks.
